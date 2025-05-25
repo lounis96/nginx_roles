@@ -1,0 +1,16 @@
+galaxy_info: 
+  role_name: nginx_roles
+  author: lounis96
+  description: test deploiement nginx
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions: 
+        - jammy
+  galaxy_tags:
+    - nginx
+    - server
+    - html
+    - web
+  dependencies: []

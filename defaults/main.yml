@@ -1,0 +1,4 @@
+---
+# defaults file for nginx-webserveur
+nginx_port: 80
+welcome_message: "bienvenue dans mon serveur nginx installer via un role"
